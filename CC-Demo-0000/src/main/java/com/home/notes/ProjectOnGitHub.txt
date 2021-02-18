@@ -1,0 +1,10 @@
+Steps to add project on GitHub.
+
+1. Login on Git hub 
+2. Create repository on git hub.
+3. Copy or clone git hub url(.git).
+4. Open Eclipse and --->click on --> Open Perspective --> git hub repository
+5. Clone a git repository and add the clone this view  ---> click icon and open --->Source git repository. 
+6. Do a right click on project and -->Team -->Share -->add to git repository.
+
+You tube Url to view steps : https://www.youtube.com/watch?v=LPT7v69guVY 
