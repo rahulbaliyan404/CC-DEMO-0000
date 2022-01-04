@@ -18,3 +18,25 @@ public class Demo1 {
 	}
 
 }
+
+class A {
+	public void disp() {
+		System.out.println("A disp");
+	}
+
+	public void info() {
+		System.out.println("A info");
+	}
+}
+
+class B {
+
+	public void disp() {
+		System.out.println("B disp");
+	}
+
+	public void doStuff() {
+		System.out.println("B doStuff");
+	}
+
+}
